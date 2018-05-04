@@ -1,9 +1,9 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.subutai.io/"><img src="https://subutai.io/img/SubutaiHeroImageV6.jpg" alt="Subutai" width="1000"></a>
+  <a href="http://www.subutai.io/"><img src="https://subutai.io/img/SubutaiHeroImageV6.jpg" alt="Subutai" width="500"></a>
   <br>
-  Markdownify
+  Subutai Control Center
   <br>
 </h1>
 
