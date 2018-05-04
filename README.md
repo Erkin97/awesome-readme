@@ -48,7 +48,7 @@
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) [Qt SDK](https://www.qt.io/download) are installed on your computer. Additionaly [MinGW](http://www.mingw.org/wiki/linuxcrossmingw) for Linux, [Xcode](https://developer.apple.com/xcode/){you need Clang compilers} for MacOs and [MSVC++](http://landinghub.visualstudio.com/visual-cpp-build-tools) for WinOS . From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com) [Qt SDK](https://www.qt.io/download) are installed on your computer. Additionaly [MinGW](http://www.mingw.org/wiki/linuxcrossmingw) for Linux, [Xcode](https://developer.apple.com/xcode/) for macOS and [MSVC++](http://landinghub.visualstudio.com/visual-cpp-build-tools) for Windows. From your command line:
 
 ```bash
 in progress
@@ -60,15 +60,10 @@ You can [download](https://subutai.io/getting-started.html#Control-Center) lates
 
 ## Credits
 
-This software uses code from several open source packages.
+Credits who needs credits.
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+- Somebody who needs credits
+- All projects whose open source codes I used
 
 ## Related
 
