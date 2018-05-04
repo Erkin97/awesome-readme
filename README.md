@@ -34,42 +34,29 @@
 
 * Bazaar account monitoring
   - Informatin of user environments, peers, balance and etc
-* Managing cloud environemtns - using SubutaiP2P
+* Managing cloud environemtns
   - SSHing, File transfer, Key deployment
-* PeerOS manager - using Vagrant
-  - Create your own virtual machine with PeerOS, register them to Bazaar, share your resources to the world
-* Components manager
-  - Allow users to install from Control Center all 3rd party components
-  - Vagrant, Virtualbox, Google Chrome, SubutaiP2P, X2Go-Client are supported
+* PeerOS manager
+  - Create your own virtual machine with PeerOS on it, register them to Bazaar, share your resources to the world
+* Software manager
+  - Install all 3rd party components with approve of user
+  - Vagrant, Virtualbox, Google Chrome, Subutai P2P, X2Go-Client are supported
 * Dark/Light skins
-* App will keep alive in tray for quick usage
+* Fast and quick usage tray application
 * Cross platform
   - Windows, Mac and Linux ready.
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com) [Qt SDK](https://www.qt.io/download) are installed on your computer. Additionaly [MinGW](http://www.mingw.org/wiki/linuxcrossmingw) for Linux, [Xcode](https://developer.apple.com/xcode/){you need Clang compilers} for MacOs and [MSVC++](http://landinghub.visualstudio.com/visual-cpp-build-tools) for WinOS . From your command line:
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
-
-# Go into the repository
-$ cd electron-markdownify
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
+in progress
 ```
-
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) latest installable version of Markdownify for Windows, macOS and Linux.
+You can [download](https://subutai.io/getting-started.html#Control-Center) latest installable version of Subutai Control Center for Windows, macOS and Linux.
 
 ## Credits
 
