@@ -23,7 +23,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
-  <a href="#about">About Subutai</a> •
+  <a href="#about-subutai">About Subutai</a> •
   <a href="#license">License</a>
 </p>
 
