@@ -32,21 +32,17 @@
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
+* Bazaar account monitoring
+  - Informatin of user environments, peers, balance and etc
+* Managing cloud environemtns - using SubutaiP2P
+  - SSHing, File transfer, Key deployment
+* PeerOS manager - using Vagrant
+  - Create your own virtual machine with PeerOS, register them to Bazaar, share your resources to the world
+* Components manager
+  - Allow users to install from Control Center all 3rd party components
+  - Vagrant, Virtualbox, Google Chrome, SubutaiP2P, X2Go-Client are supported
+* Dark/Light skins
 * App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
 * Cross platform
   - Windows, Mac and Linux ready.
 
