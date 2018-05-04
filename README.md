@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.subutai.io/"><img src="https://subutai.io/img/SubutaiHeroImageV6.jpg" alt="Subutai" width="500"></a>
+  <a href="http://www.subutai.io/"><img src="https://github.com/subutai-io/control-center/blob/master/resources/cc_icon_last.png" alt="Subutai" width="500"></a>
   <br>
   Subutai Control Center
   <br>
