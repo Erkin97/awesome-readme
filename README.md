@@ -50,9 +50,10 @@
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Qt SDK](https://www.qt.io/download) are installed on your computer. Additionaly [MinGW](http://www.mingw.org/wiki/linuxcrossmingw) for Linux, [Xcode](https://developer.apple.com/xcode/) for macOS and [MSVC++](http://landinghub.visualstudio.com/visual-cpp-build-tools) for Windows. From your command line:
 
 ```bash
-clone repo
+clone
 build
 run
+enjoy how life is easy
 ```
 
 ## Download
