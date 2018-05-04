@@ -23,8 +23,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
+  <a href="#About Subutai">About Subutai</a> •
   <a href="#license">License</a>
 </p>
 
@@ -58,33 +57,13 @@ in progress
 
 You can [download](https://subutai.io/getting-started.html#Control-Center) latest installable version of Subutai Control Center for Windows, macOS and Linux.
 
-## Credits
+## About Subutai
 
-Credits who needs credits.
+[Subutai](https://github.com/amitmerchant1990/markdownify-web) - Open Source Peer-to-Peer (P2P) Cloud Computing
+Internet of Things (IoT) and Cryptocurrency Mining for Everyone
 
-- Somebody who needs credits
-- All projects whose open source codes I used
-
-## Related
-
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
-
-## Support
-
-<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
 
 ## License
 
-MIT
-
----
-
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+Apache License 2.0
 
