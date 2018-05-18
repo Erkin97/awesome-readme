@@ -45,15 +45,27 @@
 * Cross platform
   - Windows, Mac and Linux ready.
 
-## How To Use
+## How To Build
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Qt SDK](https://www.qt.io/download) are installed on your computer. Additionaly [MinGW](http://www.mingw.org/wiki/linuxcrossmingw) for Linux, [Xcode](https://developer.apple.com/xcode/) for macOS and [MSVC++](http://landinghub.visualstudio.com/visual-cpp-build-tools) for Windows. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [qmake](https://www.qt.io/download) are installed on your computer, and [Qt Creator](https://www.qt.io/download) if you want to build from IDE. You need C/C++ compilers [MinGW](http://www.mingw.org/wiki/linuxcrossmingw) for Linux, [clang](https://clang.llvm.org/get_started.html) for macOS and [MSVC++](http://landinghub.visualstudio.com/visual-cpp-build-tools) for Windows. From your command line:
 
+Use ```git checkout $(cat version)``` on **unix** or ```git checkout $(type version)``` on **Windows** to switch to the latest released branch. After you can build from command line using these commands:
+
+for **MacOS**
 ```bash
-clone
-build
-run
-enjoy how life is easy
+qmake SubutaiControlCenter.pro -r -spec macx-clang CONFIG+=x86_64
+make
+```
+for **Linux**
+```bash
+qmake ../SubutaiControlCenter.pro -r -spec linux-g++
+make -j
+```
+
+for **Windows**
+```bash
+qmake ..\SubutaiControlCenter.pro -r -spec win32-msvc
+jom
 ```
 
 ## Download
